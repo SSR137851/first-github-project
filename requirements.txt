@@ -1,0 +1,6 @@
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+Add initial dependencies for REAL-ESRGAN inference
