@@ -29,3 +29,16 @@ At the current stage, `main.py`:
 - Scans the `input/` directory for images
 - Loads the first available image using PIL
 - Prints basic image properties (size and color mode)
+## Model Weights (Required)
+
+This repository does NOT include pretrained model weights due to GitHub file size limitations.
+
+Please download the pretrained model manually:
+
+- Model: RealESRGAN_x4plus.pth
+- Official release:
+  https://github.com/xinntao/Real-ESRGAN/releases/tag/v0.1.0
+
+After downloading, place the file here:
+
+models/RealESRGAN_x4plus.pth
