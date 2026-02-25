@@ -18,3 +18,14 @@ The focus of this project is **inference**, not training.
 ## Status
 Project setup and documentation in progress.
 
+## Current Status
+
+✅ Project structure initialized  
+✅ Input directory scanning implemented  
+✅ Image loading and validation using PIL  
+
+📌 Current Stage: Pipeline Initialization & Input Validation
+At the current stage, `main.py`:
+- Scans the `input/` directory for images
+- Loads the first available image using PIL
+- Prints basic image properties (size and color mode)
